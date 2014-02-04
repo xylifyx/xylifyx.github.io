@@ -1112,13 +1112,13 @@ var mediaJSON = { "categories" : [ { "name" : "Movies",
               "title" : "Volkswagen GTI Review"
             },
 			{ "description" : "The Smoking Tire is going on the 2010 Bullrun Live Rally in a 2011 Shelby GT500, and posting a video from the road every single day! The only place to watch them is by subscribing to The Smoking Tire or watching at BlackMagicShine.com",
-              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4" ],
+              "sources" : [ "rtsp://om.gss.dr.dk/mediacache/_definst_/mp4:content/CMS/Resources/dr.dk/NETTV/DR1/2012/05/6a6d35fc-fbc7-46fa-88bb-b42c15562f9d/Clement-Soendag_0dcdeaffd83f40e1b7c8d4aec334834b_3.mp4/playlist.m3u8?ID=1137929" ],
               "subtitle" : "By Garage419",
               "thumb" : "images/WeAreGoingOnBullrun.jpg",
               "title" : "We Are Going On Bullrun"
             },
 			{ "description" : "The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.The Smoking Tire meets up with Chris and Jorge from CarsForAGrand.com to see just how far $1,000 can go when looking for a car.",
-              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4" ],
+              "sources" : [ "http://om.gss.dr.dk/mediacache/_definst_/mp4:content/CMS/Resources/dr.dk/NETTV/DR1/2012/05/6a6d35fc-fbc7-46fa-88bb-b42c15562f9d/Clement-Soendag_0dcdeaffd83f40e1b7c8d4aec334834b_3.mp4/playlist.m3u8?ID=1137929" ],
               "subtitle" : "By Garage419",
               "thumb" : "images/WhatCarCanYouGetForAGrand.jpg",
               "title" : "What care can you get for a grand?"
