@@ -1058,8 +1058,8 @@ var mediaJSON = { "categories" : [ { "name" : "Movies",
               "thumb" : "images/ElephantsDream.jpg",
               "title" : "Elephant Dream"
             },
-            { "description" : "HBO GO now works with Chromecast -- the easiest way to enjoy online video on your TV. For when you want to settle into your Iron Throne to watch the latest episodes. For $35.\nLearn how to use Chromecast with HBO GO and more at google.com/chromecast.",
-              "sources" : [ "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4" ],
+            { "description" : "DR",
+              "sources" : [ "http://om.gss.dr.dk/mediacache/_definst_/mp4:content/CMS/Resources/dr.dk/NETTV/DR1/2012/05/6a6d35fc-fbc7-46fa-88bb-b42c15562f9d/Clement-Soendag_0dcdeaffd83f40e1b7c8d4aec334834b_3.mp4/playlist.m3u8?ID=1137929" ],
               "subtitle" : "By Google",
               "thumb" : "images/ForBiggerBlazes.jpg",
               "title" : "For Bigger Blazes"
