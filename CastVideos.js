@@ -136,7 +136,8 @@ CastPlayer.prototype.initializeCastPlayer = function() {
   }
   // default set to the default media receiver app ID
   // optional: you may change it to point to your own
-  var applicationID = chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID;
+  //  var applicationID = master.m3u8chrome.cast.media.DEFAULT_MEDIA_RECEIVER_APP_ID;
+  var applicationID = "47F7F03C";
 
   // request session
   var sessionRequest = new chrome.cast.SessionRequest(applicationID);
@@ -1053,10 +1054,10 @@ var mediaJSON = { "categories" : [ { "name" : "Movies",
               "title" : "Big Buck Bunny"
             },
             { "description" : "DR",
-              "sources" : [ "http://om.gss.dr.dk/mediacache/_definst_/mp4:content/CMS/Resources/dr.dk/NETTV/DR1/2012/05/6a6d35fc-fbc7-46fa-88bb-b42c15562f9d/Clement-Soendag_0dcdeaffd83f40e1b7c8d4aec334834b_3.mp4/playlist.m3u8?ID=1137929" ],
+              "sources" : [ "http://drod07a-vh.akamaihd.net/i/all/clear/download/96/52cbfb30a11f9d1428cab996/SYRIEN-FRED---Danmark-med-til-_b4f1b49985ed4f17beb43068e40a2112_,723,302,151,.mp4.csmil/master.m3u8"],
               "subtitle" : "DR",
               "thumb" : "images/ElephantsDream.jpg",
-              "title" : "Elephant Dream"
+              "title" : "DR"
             }
     ]}]};
 
